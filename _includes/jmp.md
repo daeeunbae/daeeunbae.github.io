@@ -5,7 +5,7 @@
 <p style="margin:0 10px 15px; font-size:90%; color:gray;"> GW-CIBER Research Grant, 2024 </p>
 
 <a href="./assets/files/CV_DaeeunBae.pdf" target="_blank" style="text-decoration:none;">
-  <i class="fa-solid fa-display" style="font-size:20px; color:#3a8ee6; margin-left:10px;"></i>
+  <i class="fa-solid fa-chalkboard-user" style="font-size:20px; color:#3a8ee6; margin-left:10px;"></i>
   <span style="font-size:16px; color:#3a8ee6;">Slides</span>
 </a>
 
