@@ -2,7 +2,7 @@
 <h3 style="margin:0 10px 5px;">Instructor</h3>
 
 <ul style="margin:0 0 15px;">
-  <li><autocolor>Math Camp (Ph.D.), George Washington University, Summer 2022, 2023</autocolor></li>
+  <li><autocolor>Math Camp (Ph.D.), Summer 2022, 2023</autocolor></li>
 </ul>
 
 <h3 style="margin:0 10px 5px;">Teaching Assistant</h3>
