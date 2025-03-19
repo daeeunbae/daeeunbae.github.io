@@ -8,7 +8,7 @@ I am a Ph.D. student in Economics at George Washington University.
 
 ## Research Interests
 
-- Macroeconomics, Economic Growth, and Macro-Development
+- Macroeconomics, Economic Growth, Macro-Development
 
 {% include_relative _includes/publications.md %}
 
