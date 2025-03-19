@@ -12,4 +12,6 @@ I am a Ph.D. student in Economics at George Washington University.
 
 {% include_relative _includes/jmp.md %}
 
+{% include_relative _includes/progress.md %}
+
 {% include_relative _includes/teaching.md %}
