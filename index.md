@@ -10,6 +10,6 @@ I am a Ph.D. student in Economics at George Washington University.
 
 - Macroeconomics, Economic Growth, Macro-Development
 
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/jmp.md %}
 
 {% include_relative _includes/services.md %}
