@@ -8,14 +8,14 @@
 How does financial development affect economic growth? I revisit this long-standing question in economics by presenting a previously unexplored mechanism in the finance-growth relationship: financial development fosters growth by accelerating the rate at which investment goods improve over time. Empirically, I show that financial development is positively associated with the productivity growth of investment goods production relative to consumption goods production, and that investment goods production relies more heavily on high-R&D industries than consumption goods production. To explain these empirical patterns, I develop a multi-sector R&D-based growth model with financial frictions. In the model, financial development disproportionately enhances the productivity growth of high-R&D industries, as these industries depend heavily on external financing. Since investment goods production is more reliant on high-R&D industries than consumption goods production, it benefits more from financial development. Consequently, investment goods production becomes more efficient, leading to a faster increase in its productivity relative to consumption goods production.
 </p>-->
 
-
-<a href="./assets/files/CV_DaeeunBae.pdf" target="_blank" style="text-decoration:none;">
-  <i class="fa-solid fa-chalkboard-user" style="font-size:20px; color:#3a8ee6; margin-left:10px;"></i>
-  <span style="font-size:16px; color:#3a8ee6;">Slides</span>
-</a>
-
-<a href="./assets/files/CV_DaeeunBae.pdf" target="_blank" style="text-decoration:none;">
-  <i class="fa-solid fa-file-lines" style="font-size:20px; color:#6c757d; margin-left:15px;"></i>
-  <span style="font-size:16px; color:#6c757d;">Draft</span>
-</a>
-
+<div style="margin: 5px 10px;">
+    <a href="./assets/files/CV_DaeeunBae.pdf" target="_blank" style="text-decoration:none; display:inline-block;">
+    <i class="fa-solid fa-file-lines" style="font-size:20px; color:#6c757d;"></i>
+    <span style="font-size:16px; color:#6c757d;">Draft</span>
+  </a>
+  
+  <a href="./assets/files/CV_DaeeunBae.pdf" target="_blank" style="text-decoration:none; display:inline-block; margin-right:15px;">
+    <i class="fa-solid fa-display" style="font-size:20px; color:#3a8ee6;"></i>
+    <span style="font-size:16px; color:#3a8ee6;">Slides</span>
+  </a>
+</div>
