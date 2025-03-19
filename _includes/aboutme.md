@@ -1,3 +1,3 @@
-<h2 id="About Me" style="margin: 2px 0px 25px;">About Me</h2>
+<h2 id="About Me" style="margin: 2px 0px 20px;">About Me</h2>
 
 I am a Ph.D. student in Economics at George Washington University. 
