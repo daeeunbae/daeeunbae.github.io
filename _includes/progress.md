@@ -2,7 +2,9 @@
 
 <h3 style="margin:0 10px 15px;">Corporate Taxes and Innovation: Does Firm Size Matter?</h3>
 
-<h3 style="margin:0 10px 5px;">Financial Development and Trade Network Formation</h3>
-<p style="margin:0 10px 15px; font-size:90%; color:gray;">
-  with <a href="https://siwonryu.com" target="_blank">Siwon Ryu</a>
-</p>
+<h3 style="margin:0 10px 15px;">
+  Financial Development and Trade Network Formation
+  <span style="font-size:90%; color:gray; font-weight:normal;">
+    with <a href="https://siwonryu.com" target="_blank">Siwon Ryu</a>
+  </span>
+</h3>
