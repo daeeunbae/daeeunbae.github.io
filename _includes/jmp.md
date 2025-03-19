@@ -9,12 +9,12 @@ How does financial development affect economic growth? I revisit this long-stand
 </p>
 
 <div style="margin: 5px 10px 20px;">
-    <a href="./assets/files/CV_DaeeunBae.pdf" target="_blank" style="text-decoration:none; display:inline-block;">
+    <a href="" target="_blank" style="text-decoration:none; display:inline-block;">
     <i class="fa-solid fa-file-lines" style="font-size:20px; color:#6c757d;"></i>
     <span style="font-size:16px; color:#6c757d;">Draft</span>
   </a>
   
-  <a href="./assets/files/CV_DaeeunBae.pdf" target="_blank" style="text-decoration:none; display:inline-block; margin-left:10px;">
+  <a href="" target="_blank" style="text-decoration:none; display:inline-block; margin-left:10px;">
     <i class="fa-solid fa-display" style="font-size:20px; color:#3a8ee6;"></i>
     <span style="font-size:16px; color:#3a8ee6;">Slides</span>
   </a>
