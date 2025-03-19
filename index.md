@@ -2,9 +2,7 @@
 layout: homepage
 ---
 
-## About Me
-
-I am a Ph.D. student in Economics at George Washington University. 
+{% include_relative _includes/aboutme.md %}
 
 <hr style="opacity: 0.5;">
 
