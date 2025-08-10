@@ -18,4 +18,8 @@ layout: homepage
 
 <hr style="opacity: 0.7;">
 
+{% include_relative _includes/services.md %}
+
+<hr style="opacity: 0.7;">
+
 {% include_relative _includes/teaching.md %}
