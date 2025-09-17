@@ -4,7 +4,7 @@
 <h3 style="margin:0 10px 5px;">Financial Development and Endogenous Investment-Specific Technical Change</h3>
 <p style="margin:0 10px 5px; font-size:90%; color:gray;"> Awarded GW-CIBER Research Grant (2024) </p>
 <p style="margin:0 10px 20px; font-size:90%; color:gray;"> Presentations: SEA 95<sup>th</sup> Annual Meeting (2025, Scheduled), Midwest Macroeconomics Meeting (2025, Scheduled), Johns Hopkins University (2025), George Washington Univeristy (2024) </p>
-<p style="margin:0 10px 15px; text-align:justify;"> 
+<p style="margin:0 10px 15px; text-align:justify; line-height:1.5;"> 
 <b>Abstract:</b> This paper develops a quantitative framework to explain the relationship between financial development and investment-specific technical change across countries. Using a large cross-country dataset, I document that countries with more developed financial markets exhibit higher rates of investment-specific technical change, and that investment goods production is more intensive in value added from high-R&D industries. To explain these findings, I develop a multi-industry endogenous growth model with credit constraints on R&D expenditures. In the model, R&D drives productivity growth, and financial development disproportionately benefits the productivity growth of high-R&D industries because they are more dependent on external financing. Taken together with the different industrial composition of final goods production, financial development endogenously generates faster productivity growth in investment goods production. The quantitative analysis shows that this endogenous channel accounts for approximately 40% of the observed cross-country relationship between financial development and investment-specific technical change.
 </p>
 
