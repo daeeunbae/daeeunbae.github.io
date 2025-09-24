@@ -4,7 +4,7 @@
 <h3 style="margin:0 10px 20px;">Financial Development and Endogenous Investment-Specific Technical Change</h3>
 <div style="margin: 5px 10px 20px;">
     <a href="assets/files/JMP_DaeeunBae.pdf" target="_blank" style="text-decoration:none; display:inline-block;">
-    <i class="fa-solid fa-file-lines" style="font-size:20px; color:#6c757d;"></i>
+    <i class="fa-solid fa-file-lines" style="font-size:20px; color:#2d6a4f;"></i>
     <span style="font-size:16px; color:#6c757d;">Draft</span>
   </a>
 </div>
