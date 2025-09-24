@@ -1,13 +1,13 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
 
 <h2 id="jmp" style="margin: 2px 0px 20px;">Job Market Paper</h2>
+<h3 style="margin:0 10px 5px;">Financial Development and Endogenous Investment-Specific Technical Change</h3>
 <div style="margin: 5px 10px 20px;">
     <a href="assets/files/JMP_DaeeunBae.pdf" target="_blank" style="text-decoration:none; display:inline-block;">
     <i class="fa-solid fa-file-lines" style="font-size:20px; color:#6c757d;"></i>
     <span style="font-size:16px; color:#6c757d;">Draft</span>
   </a>
 </div>
-<h3 style="margin:0 10px 5px;">Financial Development and Endogenous Investment-Specific Technical Change</h3>
 <p style="margin:0 10px 5px; font-size:90%; color:gray;"> Awarded GW-CIBER Research Grant (2024) </p>
 <p style="margin:0 10px 20px; font-size:90%; color:gray;"> Presentations: SEA 95<sup>th</sup> Annual Meeting (2025, Scheduled), Midwest Macroeconomics Meeting (2025, Scheduled), Johns Hopkins University (2025), George Washington Univeristy (2024) </p>
 <p style="margin:0 10px 15px; text-align:justify; line-height:1.5;"> 
