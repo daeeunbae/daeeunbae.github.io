@@ -1,7 +1,7 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"/>
 
 <h2 id="jmp" style="margin: 2px 0px 20px;">Job Market Paper</h2>
-<h3 style="margin:0 10px 5px;">Financial Development and Endogenous Investment-Specific Technical Change</h3>
+<h3 style="margin:0 10px 20px;">Financial Development and Endogenous Investment-Specific Technical Change</h3>
 <div style="margin: 5px 10px 20px;">
     <a href="assets/files/JMP_DaeeunBae.pdf" target="_blank" style="text-decoration:none; display:inline-block;">
     <i class="fa-solid fa-file-lines" style="font-size:20px; color:#6c757d;"></i>
