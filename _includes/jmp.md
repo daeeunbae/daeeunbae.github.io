@@ -5,7 +5,7 @@
 <div style="margin: 5px 10px 20px;">
     <a href="assets/files/JMP_DaeeunBae.pdf" target="_blank" style="text-decoration:none; display:inline-block;">
     <i class="fa-solid fa-file-lines" style="font-size:20px; color:#2d6a4f;"></i>
-    <span style="font-size:16px; color:#6c757d;">Draft</span>
+    <span style="font-size:16px; color:#2d6a4f;">Draft</span>
   </a>
 </div>
 <p style="margin:0 10px 5px; font-size:90%; color:gray;"> Awarded GW-CIBER Research Grant (2024) </p>
