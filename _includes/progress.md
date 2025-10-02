@@ -10,7 +10,13 @@
   </span>
 </h3>
 
-<h3 style="margin:0 10px 20px;">R&D-biased Structural Change</h3>
+<h3 style="margin:0 10px 20px;">
+  R&D-biased Structural Change
+  <span style="font-size:90%; color:gray; font-weight:normal;">
+    with <a href="https://robertosamaniego.weebly.com/" target="_blank">Roberto Samaniego</a>
+  </span>
+</h3>
+
 
 <!--
 <h2 id="progress" style="margin: 2px 0px 20px;">Work in Progress</h2>
