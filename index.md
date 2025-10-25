@@ -14,6 +14,10 @@ layout: homepage
 
 <hr style="opacity: 0.7;">
 
+{% include_relative _includes/workingpapers.md %}
+
+<hr style="opacity: 0.7;">
+
 {% include_relative _includes/progress.md %}
 
 <hr style="opacity: 0.7;">
