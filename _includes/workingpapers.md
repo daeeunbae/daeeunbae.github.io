@@ -11,7 +11,7 @@
       Abstract
     </summary>
 
-    <p style="margin-top:10px; font-size:90%;">
+    <p style="margin-top:10px;">
       This paper studies the effects of corporate taxes on firms’ innovation using a sample of publicly
       traded U.S. firms. First, I find that lower corporate taxes lead to greater innovation activity.
       Second, this effect is heterogeneous across firm size, as small firms respond more strongly to
@@ -19,4 +19,3 @@
       value of the patents they generate following tax reductions.
     </p>
   </details>
-</div>
