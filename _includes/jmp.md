@@ -20,10 +20,10 @@
     I show that financial development is a key determinant of cross-country variation in the rate of
     investment-specific technical change. Using a large cross-country dataset, I document that countries
     with more developed financial markets exhibit higher rates of investment-specific technical change,
-    and that investment goods production is more intensive in value added from high-R&amp;D industries
+    and that investment goods production is more intensive in value added from high-R&D industries
     than consumption goods production. To explain these findings, I develop a multi-industry endogenous
-    growth model with credit constraints on R&amp;D expenditures. In the model, R&amp;D drives productivity
-    growth, and financial development disproportionately benefits the productivity growth of high-R&amp;D
+    growth model with credit constraints on R&D expenditures. In the model, R&D drives productivity
+    growth, and financial development disproportionately benefits the productivity growth of high-R&D
     industries because they are more dependent on external financing. Taken together with the different
     industrial composition of final goods production, financial development endogenously generates faster
     productivity growth in investment goods production. The quantitative analysis shows that this endogenous
