@@ -1,6 +1,6 @@
 <h2 id="wp" style="margin: 2px 0px 20px;">Working Papers</h2>
 <h3 style="margin:0 10px 10px;">Corporate Taxes and Innovation: Does Firm Size Matter?</h3>
-<div style="margin: 5px 10px 10px;">
+<div style="margin: 5px 0px 10px;">
 <p style="margin:0 10px 5px; font-size:90%; color:gray;"> Draft available upon request </p>
 <p style="margin:0 10px 5px; font-size:90%; color:gray;"> Presentations: George Washington University (2023) </p>
 <p style="margin:0 10px 15px; text-align:justify; line-height:1.5;"> 
