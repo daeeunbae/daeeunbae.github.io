@@ -16,7 +16,7 @@
     <i class="fa-solid fa-chevron-right" style="font-size:12px; margin-right:5px;"></i>
     Abstract
   </summary>
-  <p style="margin-top:10px; font-size:90%; color:#333;">
+  <p style="margin-top:10px; font-size:90%;">
     I show that financial development is a key determinant of cross-country variation in the rate of
     investment-specific technical change. Using a large cross-country dataset, I document that countries
     with more developed financial markets exhibit higher rates of investment-specific technical change,
