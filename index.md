@@ -27,7 +27,3 @@ layout: homepage
 <hr style="opacity: 0.7;">
 
 {% include_relative _includes/teaching.md %}
-
-<hr style="opacity: 0.7;">
-
-{% include_relative _includes/personal.md %}
